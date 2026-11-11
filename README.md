@@ -8,7 +8,7 @@ The projects demonstrate my approach to engineering challenges, from initial con
 
 ##**View My Portfolio**
 
-[Click here to view my portfolio (PDF)](Maura Madden Portfolio 2026 (1).pdf)
+[Click here to view my portfolio (PDF)]([Maura Madden Portfolio 2026 (1).pdf](https://github.com/mauramaddenwork/My-Portfolio/blob/main/Maura%20Madden%20Portfolio%202026.pdf))
 
 Thank you for taking the time to view my work!
 
